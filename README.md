@@ -20,6 +20,7 @@ The Frontend is developed on InertiaJS and TailwindCSS.
 - **Setup .env Data for database (or dont if you want to use SQlite like in the .env.example)**
 - **php artisan key:generate**
 - **php artisan migrate**
+- **Add Environment variable GOOGLE_API_KEY and assert it the API-Key**
 - **Use an option for starting the server:**
   - php -S localhost:80 -t public
   - php artisan serve
