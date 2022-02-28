@@ -17,10 +17,11 @@ class AddressesController extends Controller
      */
     protected $addresses;
 
-    protected $apiKey  = 'AIzaSyDrRHRgb1PWLWRpEFdmjfH8NN4nzBPUXrw';
+    protected $apiKey;
 
     public function __construct(addresses $addresses)
     {
+        $this->apiKey = env('GOOGLE_API_KEY');
         $this->addresses = $addresses;
     }
 
