@@ -31,3 +31,10 @@ The Frontend is developed on InertiaJS and TailwindCSS.
  - **Main Dashboard of the Application (/dashboard)**
  - **Address-Management where you can insert an Address and get the coordinates (/addresses)**
  - **Search for cities in the radius of an Address (/searchradius)**
+
+## Application Preview
+ - **Dashboard <br> <img src="https://github.com/Bogdan-Cristian/Laravel-Jetstream-get-Coordinates-of-a-Location/blob/main/ReadMeImages/dashboard.png?raw=true" height="200px"></img>**
+ - **Addresses <br> <img height="200px" src="https://github.com/Bogdan-Cristian/Laravel-Jetstream-get-Coordinates-of-a-Location/blob/main/ReadMeImages/addresses.png?raw=true"></img>**
+ - **Search Radius <br> <img height="200px" src="https://github.com/Bogdan-Cristian/Laravel-Jetstream-get-Coordinates-of-a-Location/blob/main/ReadMeImages/search.png?raw=true">**
+ - **Register <br> <img height="200px" src="https://github.com/Bogdan-Cristian/Laravel-Jetstream-get-Coordinates-of-a-Location/blob/main/ReadMeImages/register.png?raw=true">**
+ - **Login <br> <img height="200px" src="https://github.com/Bogdan-Cristian/Laravel-Jetstream-get-Coordinates-of-a-Location/blob/main/ReadMeImages/login.png?raw=true">**
